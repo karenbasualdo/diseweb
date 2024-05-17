@@ -1,0 +1,23 @@
+body{
+    background-color:  rgb(6, 14, 87);
+}
+
+h2{
+    color: beige;
+    font-size: 60px;
+    text-align: center;
+}
+
+
+.ingreso{
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    
+}
+    
+.pas{
+    background-color: rgb(109, 109, 187);
+    
+}
