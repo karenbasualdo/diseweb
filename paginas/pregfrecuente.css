@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(185, 185, 238);
+}
+
+h1{
+    color: black;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    
+}
+
+h2{
+    color: black;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    
+}
+
+h3{
+    color: black;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+p{
+    color: black;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    
+   
+}
+
+li{
+    color: black;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+
+
